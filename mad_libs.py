@@ -1,5 +1,6 @@
 from tkinter import *
 
+#Mad Libs Project
 root = Tk()
 root.geometry('300x300')
 root.title('DataFlair-Mad Libs Generator')
